@@ -9,7 +9,7 @@ jobs:
       steps:
         - run: env
     window-environment-variables:
-      runs-on: wndows-latest
+      runs-on: windows-latest
       steps:
         - run: env
     macro-environment-variables:
