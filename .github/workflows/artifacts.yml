@@ -1,6 +1,6 @@
 name: Artifacts Demo
 
-on: workflow_dispatch
+on: push
 
 jobs:
   job_1:
